@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Gun</folder>
+	<filename>sebastian-pociecha-bgJiSoC7kMM-unsplash.jpg</filename>
+	<path>F:\object_detection\models\research\object_detection\dataset\Gun\sebastian-pociecha-bgJiSoC7kMM-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>6000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1750</xmin>
+			<ymin>2845</ymin>
+			<xmax>3459</xmax>
+			<ymax>3817</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>knife</folder>
+	<filename>louis-hansel-shotsoflouis-dhNvv_tL-FI-unsplash.jpg</filename>
+	<path>F:\object_detection\models\research\object_detection\dataset\knife\louis-hansel-shotsoflouis-dhNvv_tL-FI-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5423</width>
+		<height>3583</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>319</ymin>
+			<xmax>1809</xmax>
+			<ymax>3541</ymax>
+		</bndbox>
+	</object>
+</annotation>

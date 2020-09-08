@@ -1,0 +1,26 @@
+<annotation>
+	<folder>knife</folder>
+	<filename>fernando-aguilar-ebo1dqAYvcM-unsplash.jpg</filename>
+	<path>F:\object_detection\models\research\object_detection\dataset\knife\fernando-aguilar-ebo1dqAYvcM-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3456</width>
+		<height>5184</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>723</xmin>
+			<ymin>1083</ymin>
+			<xmax>1532</xmax>
+			<ymax>4000</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Gun</folder>
+	<filename>jonathan-cooper-c676QsBVUTg-unsplash.jpg</filename>
+	<path>F:\object_detection\models\research\object_detection\dataset\Gun\jonathan-cooper-c676QsBVUTg-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5139</width>
+		<height>3648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3161</xmin>
+			<ymin>457</ymin>
+			<xmax>4139</xmax>
+			<ymax>2291</ymax>
+		</bndbox>
+	</object>
+</annotation>

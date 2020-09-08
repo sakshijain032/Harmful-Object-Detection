@@ -1,0 +1,26 @@
+<annotation>
+	<folder>knife</folder>
+	<filename>ksenia-makagonova-6P-hA-VtEvM-unsplash.jpg</filename>
+	<path>F:\object_detection\models\research\object_detection\dataset\knife\ksenia-makagonova-6P-hA-VtEvM-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5472</width>
+		<height>3648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1521</xmin>
+			<ymin>1446</ymin>
+			<xmax>3666</xmax>
+			<ymax>2424</ymax>
+		</bndbox>
+	</object>
+</annotation>

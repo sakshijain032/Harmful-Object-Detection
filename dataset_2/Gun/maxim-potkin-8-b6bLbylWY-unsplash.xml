@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Gun</folder>
+	<filename>maxim-potkin-8-b6bLbylWY-unsplash.jpg</filename>
+	<path>F:\object_detection\models\research\object_detection\dataset\Gun\maxim-potkin-8-b6bLbylWY-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5170</width>
+		<height>7360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1603</xmin>
+			<ymin>1580</ymin>
+			<xmax>4891</xmax>
+			<ymax>4542</ymax>
+		</bndbox>
+	</object>
+</annotation>

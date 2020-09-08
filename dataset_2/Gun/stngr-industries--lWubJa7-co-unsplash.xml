@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Gun</folder>
+	<filename>stngr-industries--lWubJa7-co-unsplash.jpg</filename>
+	<path>F:\object_detection\models\research\object_detection\dataset\Gun\stngr-industries--lWubJa7-co-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2400</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>611</xmin>
+			<ymin>304</ymin>
+			<xmax>1952</xmax>
+			<ymax>2740</ymax>
+		</bndbox>
+	</object>
+</annotation>

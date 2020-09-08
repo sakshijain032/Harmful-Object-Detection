@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Gun</folder>
+	<filename>sebastian-pociecha-LltzcvrRArQ-unsplash.jpg</filename>
+	<path>F:\object_detection\models\research\object_detection\dataset\Gun\sebastian-pociecha-LltzcvrRArQ-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3517</width>
+		<height>5276</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1737</xmin>
+			<ymin>54</ymin>
+			<xmax>3412</xmax>
+			<ymax>4121</ymax>
+		</bndbox>
+	</object>
+</annotation>

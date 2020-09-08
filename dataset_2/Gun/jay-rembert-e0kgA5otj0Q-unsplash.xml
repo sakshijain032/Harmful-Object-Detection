@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Gun</folder>
+	<filename>jay-rembert-e0kgA5otj0Q-unsplash.jpg</filename>
+	<path>F:\object_detection\models\research\object_detection\dataset\Gun\jay-rembert-e0kgA5otj0Q-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2449</width>
+		<height>2449</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>263</xmin>
+			<ymin>413</ymin>
+			<xmax>2263</xmax>
+			<ymax>2350</ymax>
+		</bndbox>
+	</object>
+</annotation>

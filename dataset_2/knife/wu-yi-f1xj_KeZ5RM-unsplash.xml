@@ -1,0 +1,26 @@
+<annotation>
+	<folder>knife</folder>
+	<filename>wu-yi-f1xj_KeZ5RM-unsplash.jpg</filename>
+	<path>F:\object_detection\models\research\object_detection\dataset\knife\wu-yi-f1xj_KeZ5RM-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5760</width>
+		<height>3840</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>335</xmin>
+			<ymin>148</ymin>
+			<xmax>3559</xmax>
+			<ymax>3807</ymax>
+		</bndbox>
+	</object>
+</annotation>

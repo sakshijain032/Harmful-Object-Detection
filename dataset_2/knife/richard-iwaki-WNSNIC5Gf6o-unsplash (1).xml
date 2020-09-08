@@ -1,0 +1,26 @@
+<annotation>
+	<folder>knife</folder>
+	<filename>richard-iwaki-WNSNIC5Gf6o-unsplash (1).jpg</filename>
+	<path>F:\object_detection\models\research\object_detection\dataset\knife\richard-iwaki-WNSNIC5Gf6o-unsplash (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6241</width>
+		<height>4163</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>217</xmin>
+			<ymin>467</ymin>
+			<xmax>6197</xmax>
+			<ymax>4034</ymax>
+		</bndbox>
+	</object>
+</annotation>

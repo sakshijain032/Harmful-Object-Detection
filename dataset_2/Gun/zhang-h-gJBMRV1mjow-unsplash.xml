@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Gun</folder>
+	<filename>zhang-h-gJBMRV1mjow-unsplash.jpg</filename>
+	<path>F:\object_detection\models\research\object_detection\dataset\Gun\zhang-h-gJBMRV1mjow-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>2268</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>589</xmin>
+			<ymin>683</ymin>
+			<xmax>2010</xmax>
+			<ymax>2158</ymax>
+		</bndbox>
+	</object>
+</annotation>

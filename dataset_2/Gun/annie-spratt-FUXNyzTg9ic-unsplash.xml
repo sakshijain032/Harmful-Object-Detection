@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Gun</folder>
+	<filename>annie-spratt-FUXNyzTg9ic-unsplash.jpg</filename>
+	<path>F:\object_detection\models\research\object_detection\dataset\Gun\annie-spratt-FUXNyzTg9ic-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5304</width>
+		<height>7952</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1864</xmin>
+			<ymin>1963</ymin>
+			<xmax>3114</xmax>
+			<ymax>7788</ymax>
+		</bndbox>
+	</object>
+</annotation>

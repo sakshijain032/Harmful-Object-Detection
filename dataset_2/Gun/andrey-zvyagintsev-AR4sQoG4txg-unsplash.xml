@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Gun</folder>
+	<filename>andrey-zvyagintsev-AR4sQoG4txg-unsplash.jpg</filename>
+	<path>F:\object_detection\models\research\object_detection\dataset\Gun\andrey-zvyagintsev-AR4sQoG4txg-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>7500</width>
+		<height>5000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2699</xmin>
+			<ymin>2483</ymin>
+			<xmax>3599</xmax>
+			<ymax>3983</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Gun</folder>
+	<filename>g22.jpg</filename>
+	<path>F:\object_detection\models\research\object_detection\dataset\Gun\g22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>259</width>
+		<height>194</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>34</ymin>
+			<xmax>236</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+</annotation>
