@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Gun</folder>
+	<filename>elijah-o-donnell-VO5ghGyHNhA-unsplash.jpg</filename>
+	<path>F:\object_detection\models\research\object_detection\dataset\Gun\elijah-o-donnell-VO5ghGyHNhA-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>3376</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1083</xmin>
+			<ymin>1038</ymin>
+			<xmax>2416</xmax>
+			<ymax>1638</ymax>
+		</bndbox>
+	</object>
+</annotation>

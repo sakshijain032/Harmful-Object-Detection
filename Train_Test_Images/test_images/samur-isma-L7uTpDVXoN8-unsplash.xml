@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_images</folder>
+	<filename>samur-isma-L7uTpDVXoN8-unsplash.jpg</filename>
+	<path>F:\object_detection\models\research\object_detection\dataset\test_images\samur-isma-L7uTpDVXoN8-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3632</width>
+		<height>5456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>757</xmin>
+			<ymin>2119</ymin>
+			<xmax>2624</xmax>
+			<ymax>3911</ymax>
+		</bndbox>
+	</object>
+</annotation>

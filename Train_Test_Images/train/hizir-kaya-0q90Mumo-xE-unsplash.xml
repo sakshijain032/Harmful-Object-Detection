@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Gun</folder>
+	<filename>hizir-kaya-0q90Mumo-xE-unsplash.jpg</filename>
+	<path>F:\object_detection\models\research\object_detection\dataset\Gun\hizir-kaya-0q90Mumo-xE-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3638</width>
+		<height>4205</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1395</xmin>
+			<ymin>1008</ymin>
+			<xmax>2536</xmax>
+			<ymax>2942</ymax>
+		</bndbox>
+	</object>
+</annotation>

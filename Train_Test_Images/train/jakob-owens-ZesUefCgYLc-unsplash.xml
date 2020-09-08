@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Gun</folder>
+	<filename>jakob-owens-ZesUefCgYLc-unsplash.jpg</filename>
+	<path>F:\object_detection\models\research\object_detection\dataset\Gun\jakob-owens-ZesUefCgYLc-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4480</width>
+		<height>6720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2056</xmin>
+			<ymin>1793</ymin>
+			<xmax>3379</xmax>
+			<ymax>4515</ymax>
+		</bndbox>
+	</object>
+</annotation>

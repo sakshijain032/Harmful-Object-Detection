@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Gun</folder>
+	<filename>max-kleinen-ugdKmhDg1m8-unsplash.jpg</filename>
+	<path>F:\object_detection\models\research\object_detection\dataset\Gun\max-kleinen-ugdKmhDg1m8-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6016</width>
+		<height>4016</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2648</xmin>
+			<ymin>1508</ymin>
+			<xmax>3573</xmax>
+			<ymax>2389</ymax>
+		</bndbox>
+	</object>
+</annotation>

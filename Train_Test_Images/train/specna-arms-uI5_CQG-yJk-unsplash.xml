@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Gun</folder>
+	<filename>specna-arms-uI5_CQG-yJk-unsplash.jpg</filename>
+	<path>F:\object_detection\models\research\object_detection\dataset\Gun\specna-arms-uI5_CQG-yJk-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5425</width>
+		<height>3622</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>865</xmin>
+			<ymin>772</ymin>
+			<xmax>4965</xmax>
+			<ymax>2689</ymax>
+		</bndbox>
+	</object>
+</annotation>

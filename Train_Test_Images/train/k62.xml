@@ -1,0 +1,26 @@
+<annotation>
+	<folder>knife</folder>
+	<filename>k62.jpg</filename>
+	<path>F:\object_detection\models\research\object_detection\dataset\knife\k62.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>59</ymin>
+			<xmax>128</xmax>
+			<ymax>72</ymax>
+		</bndbox>
+	</object>
+</annotation>
