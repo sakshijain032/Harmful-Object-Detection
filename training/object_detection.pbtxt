@@ -1,0 +1,8 @@
+item {
+  name: "Gun"
+  id: 1
+}
+item {
+  name: "knife"
+  id: 2
+}

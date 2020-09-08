@@ -1,0 +1,6 @@
+model_checkpoint_path: "F:/object_detection/models/research/object_detection/training_1/model.ckpt-407"
+all_model_checkpoint_paths: "F:/object_detection/models/research/object_detection/training_1/model.ckpt-380"
+all_model_checkpoint_paths: "F:/object_detection/models/research/object_detection/training_1/model.ckpt-387"
+all_model_checkpoint_paths: "F:/object_detection/models/research/object_detection/training_1/model.ckpt-392"
+all_model_checkpoint_paths: "F:/object_detection/models/research/object_detection/training_1/model.ckpt-400"
+all_model_checkpoint_paths: "F:/object_detection/models/research/object_detection/training_1/model.ckpt-407"
