@@ -6,7 +6,7 @@ This repository is a tutorial for how to use TensorFlow's Object Detection API t
   
 </p>
 <p style="text-align:center">
-  #Knife detected
+                                             Knife detected
 </p>
 <p align="center">
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/F7njV2Y/Knife-detection-2.png" alt="Knife-detection-2" border="0" width=676 height=450></a>
